@@ -1,14 +1,1 @@
-#includ<iostream>
-using namespace std;
-int main()
-{
-cout"hello world!"
-
-
-
-
-
-cout"this is my first program"<<endl;
-
- return 0;
-}
+//hello world program
